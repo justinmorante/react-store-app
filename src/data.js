@@ -15,7 +15,7 @@ export const storeProducts = [
   {
     id: 2,
     title: "CD - 99 Days to Callville",
-    img: "img/ruins_cover3.jpg",
+    img: "img/99-days.jpg",
     price: 10,
     composer: "Justin Morante",
     info:
